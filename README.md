@@ -1,8 +1,6 @@
 Overview 📖
 Cyber Expert Bladex Pro v4 is an advanced graphical user interface (GUI) tool built in Python for performing Nmap scans. It enhances the standard Nmap functionality with a professional, hacker-themed interface, secure user authentication, scan history management, and a wide range of pre-configured scan presets. This tool is designed for cybersecurity professionals, penetration testers, and auditors to conduct network scans efficiently and securely. 🔍
 Note: This is an ethical hacking tool intended for authorized use only. It helps defenders and auditors identify vulnerabilities in controlled environments. ⚠️
-TOOL LOOK <img width="1366" height="768" alt="nmapv4" src="https://github.com/user-attachments/assets/5762aed2-180b-4299-9022-d5b11447f3c2" />
-
 Key Features ✨
 • Comprehensive Nmap Command Presets: Over 50 ready-to-use Nmap scan types (e.g., Quick Scan, Intense Scan, Vulnerability Scan) with click-to-run functionality and search filtering. 📋
 • Secure Login/Logout System: User authentication with hashed passwords, role-based access (e.g., admin/user), and secure credential storage using encryption. 🔒
